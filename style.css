@@ -78,12 +78,12 @@ body {
 }
 .linkb {
     color: #000000;
-    transition: 1s;
+    transition: 0.7s;
     cursor: url(img/crs.cur), pointer;
 }
 .linkw {
     color: #ffffff;
-    transition: 1s;
+    transition: 0.7s;
     cursor: url(img/crs.cur), pointer;
 }
 .linkb:hover {
