@@ -1,7 +1,7 @@
 # This is my own portfolio site on GitHub Pages
 <a href="https://IvanArsenev.github.io/">Web-Site</a>
 
-## You can visit my site and send me a message (*The contact form really works*)
+## You can visit my site and send me a message
 On this site I will publish my projects, which you can evaluate and see. Maybe you will learn something new for yourself.
 
 
